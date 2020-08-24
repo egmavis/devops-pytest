@@ -3,6 +3,6 @@ def marco(name):
         return "Polo"
     return "No Match"
 
-var = 
+
 print(marco("Marco"))
 print(marco("Bob"))
